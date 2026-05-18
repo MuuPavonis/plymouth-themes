@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-# Plymouth Animation Duration Configurator
 # Creates and manages systemd service files for controlling plymouth animation timing
 
 set -e
