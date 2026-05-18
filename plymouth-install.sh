@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Plymouth Theme Installer
+
 # Supports Arch-based and Ubuntu-based systems
 
 set -e
