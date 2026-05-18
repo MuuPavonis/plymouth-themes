@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=wavy
+Description=Author:MuPavonis
+Comment=UwU
+ModuleName=script
+[script]
+ImageDir=/usr/share/plymouth/themes/wavy
+ScriptFile=/usr/share/plymouth/themes/wavy/wavy.script

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=akou
+Description=Author:MuPavonis
+Comment=UwU
+ModuleName=script
+[script]
+ImageDir=/usr/share/plymouth/themes/akou
+ScriptFile=/usr/share/plymouth/themes/akou/akou.script

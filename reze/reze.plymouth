@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=reze
+Description=Author:MuPavonis
+Comment=UwU
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/reze
+ScriptFile=/usr/share/plymouth/themes/reze/reze.script

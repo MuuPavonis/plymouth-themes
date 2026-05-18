@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=zerotwo
+Description=Author:MuPavonis
+Comment=UwU
+ModuleName=script
+[script]
+ImageDir=/usr/share/plymouth/themes/zerotwo
+ScriptFile=/usr/share/plymouth/themes/zerotwo/zerotwo.script

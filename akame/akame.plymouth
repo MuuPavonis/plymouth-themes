@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=akame
+Description=Author:MuPavonis
+Comment=UwU
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/akame
+ScriptFile=/usr/share/plymouth/themes/akame/akame.script

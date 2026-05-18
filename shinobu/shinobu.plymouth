@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=shinobu
+Description=Author:MuPavonis
+Comment=UwU
+ModuleName=script
+[script]
+ImageDir=/usr/share/plymouth/themes/shinobu
+ScriptFile=/usr/share/plymouth/themes/shinobu/shinobu.script
